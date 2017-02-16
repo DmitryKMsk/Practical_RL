@@ -23,6 +23,7 @@ Taught on-campus in [HSE](https://cs.hse.ru) and [Yandex SDA](https://yandexdata
 
 
 # Announcements
+* 16.02.17 - Lectures [moved](https://yadi.sk/d/loPpY45J3EAYfU)
 * 16.02.17 - __HSE homework 3 added__
 * 14.02.17 - __HSE deadlines for weeks 1-2 extended!__
 * 14.02.17 - anytask invites moved [here](https://github.com/yandexdataschool/Practical_RL/wiki/Homeworks-and-grading-(HSE-and-YSDA))
